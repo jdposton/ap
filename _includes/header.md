@@ -1,3 +1,7 @@
+<style>
+  background-color: purple;
+</style>
+
 # [CS50 AP]({{ "/" | relative_url }})
 
 Harvard University\\
