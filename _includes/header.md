@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [CS50 AP]({{ "/" | relative_url }}){.header}
 
 Harvard University\\
 2019–2020
