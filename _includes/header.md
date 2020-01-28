@@ -1,7 +1,7 @@
-(setq markdown-xhtml-header-content
+```(setq markdown-xhtml-header-content
   "<style type='text/css'>
   header { background-color: purple; }
-  </style>")
+  </style>")```
 
 # [CS50 AP]({{ "/" | relative_url }})
 
