@@ -1,3 +1,8 @@
+(setq markdown-xhtml-header-content
+  "<style type='text/css'>
+  header { background-color: purple; }
+  </style>")
+
 ---
 title: false
 ---
