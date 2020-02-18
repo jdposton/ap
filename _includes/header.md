@@ -1,4 +1,4 @@
 # [CS50 AP]({{ "/" | relative_url }})
 
-Richardson High School\\
+Mr. Poston\\
 2019–2020
