@@ -16,5 +16,5 @@
 
 ***
 
-* [**Class Pages**]
-* [1st Period]({{"/periods/5.md" | relative_url }})
+* **Class Pages**
+* [1st Period]({{"/periods/5" | relative_url }})
