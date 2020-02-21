@@ -13,8 +13,3 @@
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
 * [Syllabus]({{"/syllabus" | relative_url }})
-
-***
-
-* **Class Pages**
-* [1st Period]({{"/periods/5" | relative_url }})
