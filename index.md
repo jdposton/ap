@@ -8,7 +8,9 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 <a href="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA">Click here</a> to see a video from Professor David J. Malan at Harvard University.
 
-![eagle](./eagle.png)
+<!---![eagle](./eagle.png)--->
+
+<img src="./eagle.png" width="300">
 
 <!---<iframe src="https://calendar.google.com/calendar/embed?src=g.risd.org_classroom07f95893%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>--->
 
